@@ -1,0 +1,5 @@
+c:\users\nmhai3\documents\visual studio 2010\Projects\HelloPhone\HelloPhone\bin\HelloPhone.dll
+c:\users\nmhai3\documents\visual studio 2010\Projects\HelloPhone\HelloPhone\bin\HelloPhone.pdb
+c:\users\nmhai3\documents\visual studio 2010\Projects\HelloPhone\HelloPhone\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nmhai3\documents\visual studio 2010\Projects\HelloPhone\HelloPhone\obj\Debug\HelloPhone.dll
+c:\users\nmhai3\documents\visual studio 2010\Projects\HelloPhone\HelloPhone\obj\Debug\HelloPhone.pdb
